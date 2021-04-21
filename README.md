@@ -9,7 +9,7 @@ The goal of this project is to capture different features of financial data, try
 
 ![plots](https://user-images.githubusercontent.com/78954578/114269162-8150c400-9a05-11eb-872a-afd074848ce4.jpeg)
 
-Please see the [Report](https://github.com/dpiloni/Time-Series-Analysis/blob/main/Report.pdf) for the complete analysis.
+Please see the <b>[Report](https://github.com/dpiloni/Time-Series-Analysis/blob/main/Report.pdf)</b> for the complete analysis.
 
 ## Results
 I found that Exponential GARCH(1,1) (EGARCH) model can be assumed as the generator process of Lufthansa returns series. No conditional mean dependence was found. 
